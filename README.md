@@ -44,25 +44,27 @@ ChazeFashion is a fully responsive e-commerce web application built using **Djan
 - Auth: Django's built-in authentication
 
 ## 🛠️ Setup Instructions
-1. Clone the Repository
-  ```bash
-    git clone https://github.com/your-username/ChazeFashion.git
-    cd ChazeFashion
+### 1. Clone the Repository
+      ```bash
+        git clone https://github.com/your-username/ChazeFashion.git
+        cd ChazeFashion
 
- 2. Create a Virtual Environment
-  ```bash
-    python -m venv env
-    source env/bin/activate  # Windows: env\Scripts\activate
+### 2. Create a Virtual Environment
+      ```bash
+        python -m venv env
+        source env/bin/activate  # Windows: env\Scripts\activate
  
- 3. Install Dependencies
-  ```bash
-    pip install -r requirements.txt
- 4. Run Migrations
-  ```bash
-    python manage.py migrate
- 5. Load Product Data (Optional)
+### 3. Install Dependencies
+      ```bash
+        pip install -r requirements.txt
+        
+### 4. Run Migrations
+      ```bash
+        python manage.py migrate
+
+ ### 5. Load Product Data (Optional)
     Ensure products.json is read in your view to populate products.
 
-6. Run the Development Server
-  ```bash
-    python manage.py runserver
+### 6. Run the Development Server
+      ```bash
+        python manage.py runserver
