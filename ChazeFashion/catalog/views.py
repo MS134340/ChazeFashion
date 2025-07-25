@@ -13,7 +13,7 @@ def home(request):
     context = {
         'products': products,
     }
-    return render(request, 'catalog/home.html', context)
+    return render(request, 'home.html', context)
 
 def signup(request):
     """User registration"""
