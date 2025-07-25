@@ -1,1 +1,1 @@
-web: gunicorn ChazeFashion.wsgi
+web: gunicorn ChazeFashion.wsgi:application
