@@ -1,0 +1,202 @@
+[
+  {
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+      "pr_name": "T-Shirt Classic",
+      "pr_cate": "Men",
+      "pr_price": 499,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+      "pr_name": "Denim Jeans",
+      "pr_cate": "Men",
+      "pr_price": 899,
+      "pr_reviews": 5
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 3,
+    "fields": {
+      "pr_name": "Cotton Kurti",
+      "pr_cate": "Women",
+      "pr_price": 699,
+      "pr_reviews": 3
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 4,
+    "fields": {
+      "pr_name": "Kids Hoodie",
+      "pr_cate": "Kids",
+      "pr_price": 599,
+      "pr_reviews": 5
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 5,
+    "fields": {
+      "pr_name": "Sneakers",
+      "pr_cate": "Unisex",
+      "pr_price": 1299,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 6,
+    "fields": {
+      "pr_name": "Summer Dress",
+      "pr_cate": "Women",
+      "pr_price": 849,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 7,
+    "fields": {
+      "pr_name": "Casual Shirt",
+      "pr_cate": "Men",
+      "pr_price": 749,
+      "pr_reviews": 3
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 8,
+    "fields": {
+      "pr_name": "Graphic Tee",
+      "pr_cate": "Unisex",
+      "pr_price": 599,
+      "pr_reviews": 5
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 9,
+    "fields": {
+      "pr_name": "Kids Pajamas",
+      "pr_cate": "Kids",
+      "pr_price": 499,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 10,
+    "fields": {
+      "pr_name": "Formal Trousers",
+      "pr_cate": "Men",
+      "pr_price": 1099,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 11,
+    "fields": {
+      "pr_name": "Leather Belt",
+      "pr_cate": "Men",
+      "pr_price": 399,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 12,
+    "fields": {
+      "pr_name": "Women's Sandals",
+      "pr_cate": "Women",
+      "pr_price": 699,
+      "pr_reviews": 5
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 13,
+    "fields": {
+      "pr_name": "Printed Scarf",
+      "pr_cate": "Women",
+      "pr_price": 299,
+      "pr_reviews": 3
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 14,
+    "fields": {
+      "pr_name": "Track Pants",
+      "pr_cate": "Unisex",
+      "pr_price": 649,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 15,
+    "fields": {
+      "pr_name": "Boys Shorts",
+      "pr_cate": "Kids",
+      "pr_price": 399,
+      "pr_reviews": 5
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 16,
+    "fields": {
+      "pr_name": "Girls Frock",
+      "pr_cate": "Kids",
+      "pr_price": 699,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 17,
+    "fields": {
+      "pr_name": "Woolen Sweater",
+      "pr_cate": "Women",
+      "pr_price": 999,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 18,
+    "fields": {
+      "pr_name": "Sports T-Shirt",
+      "pr_cate": "Unisex",
+      "pr_price": 549,
+      "pr_reviews": 5
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 19,
+    "fields": {
+      "pr_name": "Men's Blazer",
+      "pr_cate": "Men",
+      "pr_price": 1999,
+      "pr_reviews": 4
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 20,
+    "fields": {
+      "pr_name": "Kids Party Dress",
+      "pr_cate": "Kids",
+      "pr_price": 799,
+      "pr_reviews": 5
+    }
+  }
+]

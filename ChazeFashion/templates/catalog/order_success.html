@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="text-center my-20">
+    <h1 class="text-3xl font-bold mb-4">🎉 Thank you for your purchase!</h1>
+    <p class="text-lg text-gray-600 mb-8">
+        Your order has been placed successfully. A confirmation email will be sent shortly.
+    </p>
+    <div class="flex justify-center gap-4">
+        <a href="{% url 'home' %}" class="btn btn-outline">Back to Home</a>
+        <a href="{% url 'product_list' %}" class="btn btn-primary">Continue Shopping</a>
+    </div>
+</div>
+{% endblock %}

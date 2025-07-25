@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+.env
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# Media and static files
+/media/
+/static/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tailwind/DaisyUI build artifacts
+node_modules/
+
+# Other
+*.bak
+*.swp 
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+db.sqlite3
+*.sqlite3
+*.log
+staticfiles/
